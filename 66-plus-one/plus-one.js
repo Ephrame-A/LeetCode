@@ -1,11 +1,11 @@
 var plusOne = function(digits) {
-    let result;
+    
     let myarr = [];
-    result = BigInt(digits.join(''));
+    let result = BigInt(digits.join(''));
     result++;
-    let resultStr = result.toString();
-    for (let i = 0; i < resultStr.length; i++) {
-        myarr.push(Number(resultStr[i]));
+    let Str = result.toString();
+    for (let i = 0; i < Str.length; i++) {
+        myarr.push(Number(Str[i]));
     }
     return myarr;
 };
