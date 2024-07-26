@@ -18,6 +18,7 @@ This is repository which shows my LeetCode status
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Ephrame-A/LeetCode/tree/master/0066-plus-one) |
+| [1603-running-sum-of-1d-array](https://github.com/Ephrame-A/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Math
 |  |
 | ------- |
@@ -26,4 +27,8 @@ This is repository which shows my LeetCode status
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ephrame-A/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Ephrame-A/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
