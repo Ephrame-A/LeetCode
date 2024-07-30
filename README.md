@@ -14,6 +14,7 @@ This is repository which shows my LeetCode status
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ephrame-A/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0742-to-lower-case](https://github.com/Ephrame-A/LeetCode/tree/master/0742-to-lower-case) |
 | [1894-merge-strings-alternately](https://github.com/Ephrame-A/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/Ephrame-A/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 ## Array
 |  |
 | ------- |
