@@ -25,6 +25,7 @@ This is repository which shows my LeetCode status
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Ephrame-A/LeetCode/tree/master/0066-plus-one) |
+| [2491-smallest-even-multiple](https://github.com/Ephrame-A/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## String Matching
 |  |
 | ------- |
@@ -37,4 +38,8 @@ This is repository which shows my LeetCode status
 |  |
 | ------- |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/Ephrame-A/LeetCode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Ephrame-A/LeetCode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
