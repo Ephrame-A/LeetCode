@@ -9,6 +9,7 @@ This is repository which shows my LeetCode status
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ephrame-A/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/Ephrame-A/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2551-apply-operations-to-an-array](https://github.com/Ephrame-A/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2561-number-of-distinct-averages](https://github.com/Ephrame-A/LeetCode/tree/master/2561-number-of-distinct-averages) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ This is repository which shows my LeetCode status
 | [1603-running-sum-of-1d-array](https://github.com/Ephrame-A/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/Ephrame-A/LeetCode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2551-apply-operations-to-an-array](https://github.com/Ephrame-A/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2561-number-of-distinct-averages](https://github.com/Ephrame-A/LeetCode/tree/master/2561-number-of-distinct-averages) |
 ## Math
 |  |
 | ------- |
@@ -49,4 +51,12 @@ This is repository which shows my LeetCode status
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/Ephrame-A/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [2561-number-of-distinct-averages](https://github.com/Ephrame-A/LeetCode/tree/master/2561-number-of-distinct-averages) |
+## Sorting
+|  |
+| ------- |
+| [2561-number-of-distinct-averages](https://github.com/Ephrame-A/LeetCode/tree/master/2561-number-of-distinct-averages) |
 <!---LeetCode Topics End-->
