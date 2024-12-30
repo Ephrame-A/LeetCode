@@ -30,6 +30,7 @@ This is repository which shows my LeetCode status
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Ephrame-A/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Ephrame-A/LeetCode/tree/master/0069-sqrtx) |
 | [2491-smallest-even-multiple](https://github.com/Ephrame-A/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Ephrame-A/LeetCode/tree/master/2556-convert-the-temperature) |
 ## String Matching
@@ -61,4 +62,8 @@ This is repository which shows my LeetCode status
 |  |
 | ------- |
 | [2561-number-of-distinct-averages](https://github.com/Ephrame-A/LeetCode/tree/master/2561-number-of-distinct-averages) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Ephrame-A/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
