@@ -6,6 +6,7 @@ This is repository which shows my LeetCode status
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Ephrame-A/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ephrame-A/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/Ephrame-A/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2551-apply-operations-to-an-array](https://github.com/Ephrame-A/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -21,6 +22,7 @@ This is repository which shows my LeetCode status
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Ephrame-A/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Ephrame-A/LeetCode/tree/master/0066-plus-one) |
 | [1603-running-sum-of-1d-array](https://github.com/Ephrame-A/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/Ephrame-A/LeetCode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
