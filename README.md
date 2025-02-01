@@ -29,6 +29,7 @@ This is repository which shows my LeetCode status
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/Ephrame-A/LeetCode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2551-apply-operations-to-an-array](https://github.com/Ephrame-A/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Ephrame-A/LeetCode/tree/master/2561-number-of-distinct-averages) |
+| [2756-buy-two-chocolates](https://github.com/Ephrame-A/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@ This is repository which shows my LeetCode status
 |  |
 | ------- |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/Ephrame-A/LeetCode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
+| [2756-buy-two-chocolates](https://github.com/Ephrame-A/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Number Theory
 |  |
 | ------- |
@@ -65,6 +67,7 @@ This is repository which shows my LeetCode status
 |  |
 | ------- |
 | [2561-number-of-distinct-averages](https://github.com/Ephrame-A/LeetCode/tree/master/2561-number-of-distinct-averages) |
+| [2756-buy-two-chocolates](https://github.com/Ephrame-A/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Binary Search
 |  |
 | ------- |
