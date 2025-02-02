@@ -9,6 +9,7 @@ This is repository which shows my LeetCode status
 | [0027-remove-element](https://github.com/Ephrame-A/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ephrame-A/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ephrame-A/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0917-boats-to-save-people](https://github.com/Ephrame-A/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/Ephrame-A/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2551-apply-operations-to-an-array](https://github.com/Ephrame-A/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Ephrame-A/LeetCode/tree/master/2561-number-of-distinct-averages) |
@@ -26,6 +27,7 @@ This is repository which shows my LeetCode status
 | [0027-remove-element](https://github.com/Ephrame-A/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Ephrame-A/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ephrame-A/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0917-boats-to-save-people](https://github.com/Ephrame-A/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1603-running-sum-of-1d-array](https://github.com/Ephrame-A/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ephrame-A/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/Ephrame-A/LeetCode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
@@ -52,6 +54,7 @@ This is repository which shows my LeetCode status
 ## Greedy
 |  |
 | ------- |
+| [0917-boats-to-save-people](https://github.com/Ephrame-A/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/Ephrame-A/LeetCode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2756-buy-two-chocolates](https://github.com/Ephrame-A/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Number Theory
@@ -69,6 +72,7 @@ This is repository which shows my LeetCode status
 ## Sorting
 |  |
 | ------- |
+| [0917-boats-to-save-people](https://github.com/Ephrame-A/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2561-number-of-distinct-averages](https://github.com/Ephrame-A/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2756-buy-two-chocolates](https://github.com/Ephrame-A/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Binary Search
