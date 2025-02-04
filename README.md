@@ -33,6 +33,7 @@ This is repository which shows my LeetCode status
 | [0917-boats-to-save-people](https://github.com/Ephrame-A/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1603-running-sum-of-1d-array](https://github.com/Ephrame-A/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ephrame-A/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Ephrame-A/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/Ephrame-A/LeetCode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2551-apply-operations-to-an-array](https://github.com/Ephrame-A/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Ephrame-A/LeetCode/tree/master/2561-number-of-distinct-averages) |
