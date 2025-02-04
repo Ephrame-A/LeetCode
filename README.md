@@ -19,6 +19,7 @@ This is repository which shows my LeetCode status
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ephrame-A/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0742-to-lower-case](https://github.com/Ephrame-A/LeetCode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Ephrame-A/LeetCode/tree/master/0812-rotate-string) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Ephrame-A/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1894-merge-strings-alternately](https://github.com/Ephrame-A/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Ephrame-A/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 ## Array
@@ -40,6 +41,7 @@ This is repository which shows my LeetCode status
 | [0066-plus-one](https://github.com/Ephrame-A/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ephrame-A/LeetCode/tree/master/0069-sqrtx) |
 | [0371-sum-of-two-integers](https://github.com/Ephrame-A/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Ephrame-A/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2491-smallest-even-multiple](https://github.com/Ephrame-A/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Ephrame-A/LeetCode/tree/master/2556-convert-the-temperature) |
 ## String Matching
@@ -83,4 +85,8 @@ This is repository which shows my LeetCode status
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Ephrame-A/LeetCode/tree/master/0371-sum-of-two-integers) |
+## Sliding Window
+|  |
+| ------- |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Ephrame-A/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->
