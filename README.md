@@ -9,6 +9,7 @@ This is repository which shows my LeetCode status
 | [0027-remove-element](https://github.com/Ephrame-A/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ephrame-A/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ephrame-A/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/Ephrame-A/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0917-boats-to-save-people](https://github.com/Ephrame-A/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/Ephrame-A/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2551-apply-operations-to-an-array](https://github.com/Ephrame-A/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -17,6 +18,7 @@ This is repository which shows my LeetCode status
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ephrame-A/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0151-reverse-words-in-a-string](https://github.com/Ephrame-A/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0742-to-lower-case](https://github.com/Ephrame-A/LeetCode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Ephrame-A/LeetCode/tree/master/0812-rotate-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Ephrame-A/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
