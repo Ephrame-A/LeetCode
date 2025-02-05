@@ -23,6 +23,7 @@ This is repository which shows my LeetCode status
 | [0812-rotate-string](https://github.com/Ephrame-A/LeetCode/tree/master/0812-rotate-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Ephrame-A/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1894-merge-strings-alternately](https://github.com/Ephrame-A/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ephrame-A/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Ephrame-A/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 ## Array
 |  |
@@ -73,6 +74,7 @@ This is repository which shows my LeetCode status
 ## Hash Table
 |  |
 | ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ephrame-A/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2561-number-of-distinct-averages](https://github.com/Ephrame-A/LeetCode/tree/master/2561-number-of-distinct-averages) |
 ## Sorting
 |  |
@@ -92,4 +94,8 @@ This is repository which shows my LeetCode status
 |  |
 | ------- |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Ephrame-A/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ephrame-A/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
