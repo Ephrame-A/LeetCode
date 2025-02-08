@@ -6,6 +6,7 @@ This is repository which shows my LeetCode status
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ephrame-A/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Ephrame-A/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ephrame-A/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ephrame-A/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -28,6 +29,7 @@ This is repository which shows my LeetCode status
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ephrame-A/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Ephrame-A/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Ephrame-A/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ephrame-A/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -79,6 +81,7 @@ This is repository which shows my LeetCode status
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ephrame-A/LeetCode/tree/master/0015-3sum) |
 | [0917-boats-to-save-people](https://github.com/Ephrame-A/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2561-number-of-distinct-averages](https://github.com/Ephrame-A/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2756-buy-two-chocolates](https://github.com/Ephrame-A/LeetCode/tree/master/2756-buy-two-chocolates) |
