@@ -31,6 +31,7 @@ This is repository which shows my LeetCode status
 | ------- |
 | [0015-3sum](https://github.com/Ephrame-A/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Ephrame-A/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Ephrame-A/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Ephrame-A/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ephrame-A/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0917-boats-to-save-people](https://github.com/Ephrame-A/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -88,6 +89,7 @@ This is repository which shows my LeetCode status
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Ephrame-A/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ephrame-A/LeetCode/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
