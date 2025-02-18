@@ -47,6 +47,7 @@ This is repository which shows my LeetCode status
 | ------- |
 | [0066-plus-one](https://github.com/Ephrame-A/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ephrame-A/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Ephrame-A/LeetCode/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/Ephrame-A/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Ephrame-A/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2491-smallest-even-multiple](https://github.com/Ephrame-A/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -103,4 +104,12 @@ This is repository which shows my LeetCode status
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ephrame-A/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ephrame-A/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ephrame-A/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
