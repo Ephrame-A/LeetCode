@@ -54,6 +54,7 @@ This is repository which shows my LeetCode status
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Ephrame-A/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2491-smallest-even-multiple](https://github.com/Ephrame-A/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Ephrame-A/LeetCode/tree/master/2556-convert-the-temperature) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Ephrame-A/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 ## String Matching
 |  |
 | ------- |
