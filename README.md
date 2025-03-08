@@ -28,6 +28,7 @@ This is repository which shows my LeetCode status
 | [1894-merge-strings-alternately](https://github.com/Ephrame-A/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ephrame-A/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Ephrame-A/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ephrame-A/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Array
 |  |
 | ------- |
@@ -103,6 +104,7 @@ This is repository which shows my LeetCode status
 |  |
 | ------- |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Ephrame-A/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ephrame-A/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Counting
 |  |
 | ------- |
