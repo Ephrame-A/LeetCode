@@ -11,6 +11,7 @@ This is repository which shows my LeetCode status
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ephrame-A/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ephrame-A/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Ephrame-A/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Ephrame-A/LeetCode/tree/master/0189-rotate-array) |
 | [0917-boats-to-save-people](https://github.com/Ephrame-A/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0953-reverse-only-letters](https://github.com/Ephrame-A/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1894-merge-strings-alternately](https://github.com/Ephrame-A/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -37,6 +38,7 @@ This is repository which shows my LeetCode status
 | [0035-search-insert-position](https://github.com/Ephrame-A/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Ephrame-A/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ephrame-A/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/Ephrame-A/LeetCode/tree/master/0189-rotate-array) |
 | [0917-boats-to-save-people](https://github.com/Ephrame-A/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1603-running-sum-of-1d-array](https://github.com/Ephrame-A/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ephrame-A/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -52,6 +54,7 @@ This is repository which shows my LeetCode status
 | [0066-plus-one](https://github.com/Ephrame-A/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ephrame-A/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ephrame-A/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Ephrame-A/LeetCode/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Ephrame-A/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Ephrame-A/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2491-smallest-even-multiple](https://github.com/Ephrame-A/LeetCode/tree/master/2491-smallest-even-multiple) |
