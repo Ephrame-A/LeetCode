@@ -21,6 +21,7 @@ This is repository which shows my LeetCode status
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ephrame-A/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0071-simplify-path](https://github.com/Ephrame-A/LeetCode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Ephrame-A/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0742-to-lower-case](https://github.com/Ephrame-A/LeetCode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Ephrame-A/LeetCode/tree/master/0812-rotate-string) |
@@ -124,4 +125,8 @@ This is repository which shows my LeetCode status
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ephrame-A/LeetCode/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Ephrame-A/LeetCode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
