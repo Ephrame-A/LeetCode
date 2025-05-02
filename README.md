@@ -10,6 +10,7 @@ This is repository which shows my LeetCode status
 | [0027-remove-element](https://github.com/Ephrame-A/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ephrame-A/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ephrame-A/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Ephrame-A/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Ephrame-A/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Ephrame-A/LeetCode/tree/master/0189-rotate-array) |
 | [0917-boats-to-save-people](https://github.com/Ephrame-A/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -39,6 +40,7 @@ This is repository which shows my LeetCode status
 | [0035-search-insert-position](https://github.com/Ephrame-A/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Ephrame-A/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ephrame-A/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Ephrame-A/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Ephrame-A/LeetCode/tree/master/0189-rotate-array) |
 | [0917-boats-to-save-people](https://github.com/Ephrame-A/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1603-running-sum-of-1d-array](https://github.com/Ephrame-A/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -94,6 +96,7 @@ This is repository which shows my LeetCode status
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ephrame-A/LeetCode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Ephrame-A/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0917-boats-to-save-people](https://github.com/Ephrame-A/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2561-number-of-distinct-averages](https://github.com/Ephrame-A/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2756-buy-two-chocolates](https://github.com/Ephrame-A/LeetCode/tree/master/2756-buy-two-chocolates) |
