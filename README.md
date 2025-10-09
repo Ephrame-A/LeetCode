@@ -41,6 +41,7 @@ This is repository which shows my LeetCode status
 | [0066-plus-one](https://github.com/Ephrame-A/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ephrame-A/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ephrame-A/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Ephrame-A/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Ephrame-A/LeetCode/tree/master/0189-rotate-array) |
 | [0917-boats-to-save-people](https://github.com/Ephrame-A/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1603-running-sum-of-1d-array](https://github.com/Ephrame-A/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -108,6 +109,7 @@ This is repository which shows my LeetCode status
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Ephrame-A/LeetCode/tree/master/0136-single-number) |
 | [0371-sum-of-two-integers](https://github.com/Ephrame-A/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ephrame-A/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sliding Window
